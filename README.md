@@ -2,22 +2,12 @@
 
 - administrator => [
     username/email => admin@gmail.com,
-    password => password
+    password => admin123
 ]
 
-- Kepala Seksi Perhubungan (Kasi Perhub) => [
-    username/email => perhub@gmail.com,
-    password => password
-]
-
-- Kepala Seksi Keuangan (Kasi Ku) => [
-    username/email => ku@gmail.com,
-    password => password
-]
-
-- Kepala Seksi Jasmani (Kasi Jas) => [
-    username/email => jas@gmail.com,
-    password => password
+- Pengelola Dinas Perhubungan => [
+    username/email => pengelola1@gmail.com,
+    password => pengelola123
 ]
 
 ## Database Version
